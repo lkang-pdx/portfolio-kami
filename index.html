@@ -5,7 +5,33 @@ layout: default
 <div class="home">
 
   <div class="work">
-    <h2>My Work</h2>
+
+    <h2>SKILLS</h2>
+    <section class="skills">
+      <div class="skill column third">
+        <span class="fa-stack fa-4x">
+          <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        </span>
+        <h5 class="skill-title">Backend Development</h5>
+        <p class="skill-description">Ruby on Rails<br>PostgreSQL</p>
+      </div>
+      <div class="skill column third">
+        <span class="fa-stack fa-4x">
+          <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+        </span>
+        <h5 class="skill-title">Frontend Development</h5>
+        <p class="skill-description">HTML, CSS, JavaScript<br>jQuery</p>
+      </div>
+      <div class="skill column third">
+        <span class="fa-stack fa-4x">
+          <i class="fa fa-slack fa-stack-1x fa-inverse"></i>
+        </span>
+        <h5 class="skill-title">Project Management</h5>
+        <p class="skill-description">GitHub<BR>Communication</p>
+      </div>
+    </section>
+
+    <h2>PORTFOLIO</h2>
     {% for project in site.portfolio limit:3 %}
     <div class="project">
       <div class="project-thumb">
@@ -22,7 +48,7 @@ layout: default
   </div>
 
   <div class="posts">
-    <h2 class="post-header">My Posts</h2>
+    <h2 class="post-header">BLOG</h2>
     <ul>
       {% for post in paginator.posts %}
       <li class="post-teaser">
@@ -37,7 +63,7 @@ layout: default
           </p>
         </header>
         <div class="excerpt">
-          {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
+          {{ post.excerpt | strip_html | strip_newlines | truncate: 120 }}
         </div>
         <a href="{{ post.url | prepend: site.baseurl }}">
           {{ site.theme_settings.str_continue_reading }}

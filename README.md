@@ -1,4 +1,4 @@
-# Portfolio Kami Theme
+# Luna Kang's Portfolio
 ## Based on Type Theme
 
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
