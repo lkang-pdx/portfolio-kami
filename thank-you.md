@@ -4,16 +4,15 @@ title: Thank You
 permalink: /thank-you/
 hide: true
 ---
-
+<nav class="site-nav">
 {% if site.theme_settings.header_text %}
 <div class="call-out">
-  <h1>You're awesome!</h1>
-  <div class="divider"></div>
-  <h1>Let's connect soon!</h1>
+  <h2>Let's connect soon!</h2>
   <div class="divider"></div>
   <!-- Social icons from Font Awesome, if enabled -->
-  <ul>
+    <ul>
     {% include icons.html %}
-  </ul>
+    </ul>
 </div>
 {% endif %}
+</nav>

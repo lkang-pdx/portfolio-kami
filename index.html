@@ -6,31 +6,31 @@ layout: default
 
   <div class="work">
     <h2>SKILLS</h2>
-    <section class="skills">
+    <div class="skills">
       <div class="skill column third">
         <span class="fa-stack fa-4x">
           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
         </span>
-        <h5 class="skill-title">Backend Development</h5>
-        <p class="skill-description">Ruby on Rails<br>PostgreSQL</p>
+        <h5 class="skill-title">Backend</h5>
+        <p class="skill-description">Ruby on Rails<br>TDD<br>RSpec</p>
       </div>
       <div class="skill column third">
         <span class="fa-stack fa-4x">
           <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
         </span>
-        <h5 class="skill-title">Frontend Development</h5>
-        <p class="skill-description">HTML, CSS, JavaScript<br>jQuery</p>
+        <h5 class="skill-title">Frontend</h5>
+        <p class="skill-description">HTML, CSS, JavaScript<br>jQuery<br>Responsive Design</p>
       </div>
       <div class="skill column third">
         <span class="fa-stack fa-4x">
           <i class="fa fa-slack fa-stack-1x fa-inverse"></i>
         </span>
-        <h5 class="skill-title">Project Management</h5>
-        <p class="skill-description">GitHub<BR>Communication</p>
+        <h5 class="skill-title">Collaboration</h5>
+        <p class="skill-description">GitHub<BR>JIRA<BR>Slack</p>
       </div>
-    </section>
+    </div>
   </div>
-  
+
   <div class="work">
     <h2>PORTFOLIO</h2>
     {% for project in site.portfolio limit:3 %}

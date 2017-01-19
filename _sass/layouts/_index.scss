@@ -4,7 +4,7 @@
   display: inline-block;
   width: 100%;
   background-size: cover;
-  font-size: 1.2em;
+  font-size: 1em;
   text-align: center;
   color: $text-color;
   background-position:center center;
@@ -170,5 +170,5 @@
 }
 
 @media (min-width: 1024px){
-    html { font-size: 120%; }
+    html { font-size: 110%; }
 }
