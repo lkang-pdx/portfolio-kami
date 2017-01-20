@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: A Rails app that allows users to create their own wikis.
+title: LunaGem
+thumbnail-path: "img/blocflix.png"
+short-description: A Ruby Gem API client to access the Bloc API.
 
 ---
 
 {:.center}
-<!-- ![]({{ site.baseurl }}/img/blocipedia.png) -->
+<!-- ![]({{ site.baseurl }}/img/blocflix.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/blocipedia)
+#### [GitHub Repo](https://github.com/lkang-pdx/luna_gem)
 
 <!-- ## Explanation
 

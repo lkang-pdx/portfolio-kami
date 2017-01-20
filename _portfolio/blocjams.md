@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: A Rails app that allows users to create their own wikis.
+title: Bloc Jams
+thumbnail-path: "img/blocitoff.png"
+short-description: A digital music player using AngularJS.
 
 ---
 
 {:.center}
-<!-- ![]({{ site.baseurl }}/img/blocipedia.png) -->
+<!-- ![]({{ site.baseurl }}/img/blocitoff.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/blocipedia)
+#### [GitHub Repo](https://github.com/lkang-pdx/bloc-jams-angular)
 
 <!-- ## Explanation
 

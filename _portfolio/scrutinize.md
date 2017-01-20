@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: A Rails app that allows users to create their own wikis.
+title: Scrutinize
+thumbnail-path: "img/blocflix.png"
+short-description: An analytics service to track events on websites
 
 ---
 
 {:.center}
-<!-- ![]({{ site.baseurl }}/img/blocipedia.png) -->
+<!-- ![]({{ site.baseurl }}/img/blocflix.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/blocipedia)
-
-<!-- ## Explanation
+#### [GitHub Repo](https://github.com/lkang-pdx/scrutinize)
+<!--
+## Explanation
 
 Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
 
