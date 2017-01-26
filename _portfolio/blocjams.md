@@ -2,14 +2,15 @@
 layout: post
 title: Bloc Jams
 thumbnail-path: "img/blocitoff.png"
-short-description: A digital music player using AngularJS.
+short-description: Rock out with this AngularJS music player 
 
 ---
 
 {:.center}
 <!-- ![]({{ site.baseurl }}/img/blocitoff.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/bloc-jams-angular)
+#### A digital music player using AngularJS.
+[GitHub Repo](https://github.com/lkang-pdx/bloc-jams-angular)
 
 <!-- ## Explanation
 

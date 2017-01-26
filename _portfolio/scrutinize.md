@@ -2,14 +2,16 @@
 layout: post
 title: Scrutinize
 thumbnail-path: "img/blocflix.png"
-short-description: An analytics service to track events on websites
+short-description: Track website events with this analytics service
 
 ---
 
 {:.center}
 <!-- ![]({{ site.baseurl }}/img/blocflix.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/scrutinize)
+#### An analytics service to track events on websites.
+[GitHub Repo](https://github.com/lkang-pdx/scrutinize)
+
 <!--
 ## Explanation
 

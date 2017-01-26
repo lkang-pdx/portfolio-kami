@@ -2,14 +2,15 @@
 layout: post
 title: Do or Die
 thumbnail-path: "img/blocflix.png"
-short-description: An application that allows users to create self-destructing to-do lists.
+short-description: Create self-destructing to-do lists
 
 ---
 
 {:.center}
 <!-- ![]({{ site.baseurl }}/img/blocflix.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/do-or-die)
+#### A Rails app that allows users to create self-destructing to-do lists.
+[GitHub Repo](https://github.com/lkang-pdx/do-or-die)
 
 <!-- ## Explanation
 

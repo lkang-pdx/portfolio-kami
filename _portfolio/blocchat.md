@@ -2,14 +2,15 @@
 layout: post
 title: Bloc Chat
 thumbnail-path: "img/blocflix.png"
-short-description: A Ruby Gem API client to access the Bloc API.
+short-description: A real-time chat application using Firebase and AngularJS
 
 ---
 
 {:.center}
 <!-- ![]({{ site.baseurl }}/img/blocflix.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/bloc-chat)
+#### A real-time chat application using Firebase and AngularJS.
+[GitHub Repo](https://github.com/lkang-pdx/bloc-chat)
 
 <!-- ## Explanation
 

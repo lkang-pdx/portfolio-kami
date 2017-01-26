@@ -2,14 +2,15 @@
 layout: post
 title: LunaGem
 thumbnail-path: "img/blocflix.png"
-short-description: A Ruby Gem API client to access the Bloc API.
+short-description: Access the Bloc API with this Ruby Gem API client
 
 ---
 
 {:.center}
 <!-- ![]({{ site.baseurl }}/img/blocflix.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/luna_gem)
+#### A Ruby Gem API client to access the Bloc API.
+[GitHub Repo](https://github.com/lkang-pdx/luna_gem)
 
 <!-- ## Explanation
 

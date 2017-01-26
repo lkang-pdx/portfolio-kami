@@ -2,14 +2,15 @@
 layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
-short-description: A Rails app that allows users to create their own wikis.
+short-description: Create wikis with this Rails app
 
 ---
 
 {:.center}
 <!-- ![]({{ site.baseurl }}/img/blocipedia.png) -->
 
-#### [GitHub Repo](https://github.com/lkang-pdx/blocipedia)
+#### A Rails app that allows users to create their own wikis.
+[GitHub Repo](https://github.com/lkang-pdx/blocipedia)
 
 <!-- ## Explanation
 
