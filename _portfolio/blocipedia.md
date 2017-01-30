@@ -2,14 +2,27 @@
 layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
-short-description: Create wikis with this Rails app
+short-description: Built with Rails 5, Stripe, Elasticsearch
 
 ---
 
 {:.center}
-<!-- ![]({{ site.baseurl }}/img/blocipedia.png) -->
+![]({{ site.baseurl }}/img/blocipedia.png)
 
-#### A Rails app that allows users to create their own wikis.
+Blocipedia creates public and private Markdown-based wikis.
+
+### Features:
+
+* Support admin, standard, and premium roles
+* Create public wikis as a standard user
+* Upgrade account using [Stripe](https://stripe.com/)
+* Create private wikis as a premium or admin user
+* Add and remove collaborators for private wikis
+* Render Markdown syntax using [Redcarpet gem](https://github.com/vmg/redcarpet)
+* Search wikis using [Elasticsearch](https://www.elastic.co/products/elasticsearch)
+
+[Live Demo](https://warm-brook-93872.herokuapp.com/)
+
 [GitHub Repo](https://github.com/lkang-pdx/blocipedia)
 
 <!-- ## Explanation

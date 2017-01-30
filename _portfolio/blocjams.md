@@ -1,15 +1,18 @@
 ---
 layout: post
 title: Bloc Jams
-thumbnail-path: "img/blocitoff.png"
-short-description: Rock out with this AngularJS music player 
+thumbnail-path: "img/blocjams.png"
+short-description: Built with AngularJS 1, jQuery, JavaScript
 
 ---
 
 {:.center}
-<!-- ![]({{ site.baseurl }}/img/blocitoff.png) -->
+![]({{ site.baseurl }}/img/blocjams.png)
 
-#### A digital music player using AngularJS.
+Bloc Jams is an AngularJS Spotify clone.
+
+[Live Demo](http://bloc-jams-angular.netlify.com/)
+
 [GitHub Repo](https://github.com/lkang-pdx/bloc-jams-angular)
 
 <!-- ## Explanation
