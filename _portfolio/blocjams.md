@@ -11,6 +11,12 @@ short-description: Built with AngularJS 1, jQuery, JavaScript
 
 Bloc Jams is an AngularJS Spotify clone.
 
+### Features:
+
+* Pause and play songs, view playback progress, and adjust volume
+* Switch songs via previous and next buttons
+* Format the song playback and total time using a timecode filter
+
 [Live Demo](http://bloc-jams-angular.netlify.com/)
 
 [GitHub Repo](https://github.com/lkang-pdx/bloc-jams-angular)
