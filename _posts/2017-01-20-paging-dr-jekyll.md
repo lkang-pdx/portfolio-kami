@@ -23,7 +23,7 @@ Reviewed many [website color schemes](https://designschool.canva.com/blog/websit
 Incorporated Agency's use of Montserrat, Droid Serif, and Kaushan Script.
 
 #### 3. Cover Image
-Searched [StockSnap.io](https://stocksnap.io/) for an image that resonated with me and could not believe my luck: a yellow and white mug to complement the color scheme. Flipped the photo to draw attention to the right hand navigation links.
+Searched [StockSnap.io](https://stocksnap.io/) for an image that resonated with me and could not believe my luck: a workspace that radiates the warmth of my color scheme. 
 
 #### 4. Skills Section
 Replicated Agency's Services section with [Font Awesome](http://fontawesome.io/) icons in a three column responsive layout.
