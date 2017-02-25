@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
+title: Wikkr
+thumbnail-path: "img/wikkr.png"
 short-description: Built with Rails 5, Stripe, Elasticsearch
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/wikkr.png)
 
-Blocipedia creates public and private Markdown-based wikis.
+Wikkr creates public and private Markdown-based wikis.
 
 ### Features:
 
@@ -23,7 +23,7 @@ Blocipedia creates public and private Markdown-based wikis.
 
 [Live Demo](https://warm-brook-93872.herokuapp.com/)
 
-[GitHub Repo](https://github.com/lkang-pdx/blocipedia)
+[GitHub Repo](https://github.com/lkang-pdx/wikkr)
 
 <!-- ## Explanation
 
