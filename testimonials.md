@@ -6,6 +6,10 @@ feature-img: "img/color.png"
 ---
 ### What people are saying
 
+> "Luna was my student for both the Rails and Specialization modules during her apprenticeship at Bloc. She is one the most organized and ambitious students I've ever taught. Before every mentor session, she would send me a detail agenda of what she wanted to cover so our meetings were focused and productive. Luna is a rare mix of soft skills and technical know-how. She would be an excellent choice for a product manager, developer or support engineer."
+>
+>  *Lead Ruby Developer at The Pittsburgh Cultural Trust*
+
 > "Luna Kang is a highly organized and team-oriented professional. She excels at managing change amongst ambiguity. Luna shines bright when it comes to nurturing a supportive community during the often stressful and fragile nature of organizational change. Her focus, professionalism and collaborative approach has propelled change initiatives forward at Nike."
 >
 >  *Project Manager at Nike*
