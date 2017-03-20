@@ -10,7 +10,7 @@ I scrolled through many [Jekyll themes](http://themes.jekyllrc.org/), but my hea
 
 Over the course of a few days, one thing was clear to me: Jekyll is not as intuitive as you think. It took a little research, but I managed to build out a blog without interfering with the portfolio, through the use of categories. But I was tormented that I could somehow display all blog post titles and excerpts, and yet the link to each one was broken.
 
-![image-title-here]({{site.baseurl}}/img/jekyll.png){:class="img-responsive"}
+![snippet]({{site.baseurl}}/img/jekyll.png){:class="img-responsive"}
 
 I investigated Jekyll categories and posts on Stack Overflow and [Jekyll Talk](https://talk.jekyllrb.com/), but I could not find a quick fix to what seemed to be a simple problem. After consulting with my mentor and reviewing other implementations of the Agency theme, I asked the experts at Jekyll Talk. Unfortunately, the friendly suggestion I received did not pan out. After another consultation with my mentor, I decided it would be best to spend my time customizing my original portfolio theme.
 
@@ -23,7 +23,7 @@ Reviewed many [website color schemes](https://designschool.canva.com/blog/websit
 Incorporated Agency's use of Montserrat, Droid Serif, and Kaushan Script.
 
 #### 3. Cover Image
-Searched [StockSnap.io](https://stocksnap.io/) for an image that resonated with me and could not believe my luck: a workspace that radiates the warmth of my color scheme. 
+Searched [StockSnap.io](https://stocksnap.io/) for an image that resonated with me and could not believe my luck: a workspace that radiates the warmth of my color scheme.
 
 #### 4. Skills Section
 Replicated Agency's Services section with [Font Awesome](http://fontawesome.io/) icons in a three column responsive layout.
